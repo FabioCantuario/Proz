@@ -1,0 +1,7 @@
+Comandos GIT
+Ao iniciar digite git init -> Para inicializar o git
+Depois crie um arquivo, se for pelo terminal pode usar o mkdir ou criar pelos botões
+Depois pressione Ctrl + S -> Para salva a alteração ou inserção do de dados no arquivo
+Depois digite no terminal -> git add . ou git add "nomenclatura do arquivo" para salvar o arquivo
+Depois digite no terminal -> git commit -m "nomenclatura do arquivo"
+obs.: Não esqueça de colocar o -m e nome do arquivo.
