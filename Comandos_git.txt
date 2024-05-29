@@ -5,3 +5,4 @@ Depois pressione Ctrl + S -> Para salva a alteração ou inserção do de dados 
 Depois digite no terminal -> git add . ou git add "nomenclatura do arquivo" para salvar o arquivo
 Depois digite no terminal -> git commit -m "nomenclatura do arquivo"
 obs.: Não esqueça de colocar o -m e nome do arquivo.
+obs.: Para verificar seu historico de commit e comparação com repositorio -> digite git log ou git log --oneline
